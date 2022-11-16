@@ -1,7 +1,7 @@
 public class raziel { 
 	public static void main(String[] args){
 		for (int i=0; i<=10;i++){
-			System.out.println("raziel"+1);
+			System.out.println("raziel2"+1);
 		}
 	}
 }
